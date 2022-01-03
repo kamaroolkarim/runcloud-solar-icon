@@ -5,7 +5,7 @@ module.exports = defineConfig({
 	build: {
 		lib: {
 			entry: path.resolve(__dirname, "src/main.ts"),
-			name: "@runcloud/uranus-icon",
+			name: "@runcloud/solar-icon",
 		},
 	},
 });

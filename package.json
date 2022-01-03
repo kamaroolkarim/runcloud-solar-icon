@@ -1,9 +1,9 @@
 {
-  "name": "@kamaroolkarim/uranus-icon",
+  "name": "@kamaroolkarim/solar-icon",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:kamaroolkarim/runcloud-uranus-icon.git"
+    "url": "git@github.com:kamaroolkarim/runcloud-solar-icon.git"
   },
   "publishConfig": {
     "@kamaroolkarim:registry": "https://npm.pkg.github.com"
